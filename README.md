@@ -1,7 +1,7 @@
 ### Olá, eu sou Kamille Kirka 💻
 **Desenvolvedora em processo** 
 
-Me chamo Kamille, tenho 22 anos, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente, estou no 3° semestre. Apaixonada por tecnologia.
+Me chamo Kamille, tenho 22 anos, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente, estou no 4° semestre. Apaixonada por tecnologia.
 
 [![blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 )](mailto:kamille_kirka@outlook.com)
